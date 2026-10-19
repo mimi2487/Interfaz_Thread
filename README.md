@@ -1,2 +1,2 @@
-# Interfaz_Thread
+# Interfaz_Thread_Contador
 contador
